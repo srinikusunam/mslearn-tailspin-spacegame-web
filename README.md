@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/srini-playground/Space%20Game%20Dotnet%20Web%20-%20Srini%20-%20Pipeline/_apis/build/status/srinikusunam.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/srini-playground/Space%20Game%20Dotnet%20Web%20-%20Srini%20-%20Pipeline/_build/latest?definitionId=4&branchName=build-pipeline)
 
 # Contributing
 
